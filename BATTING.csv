@@ -1,0 +1,872 @@
+BATTING,RUNS,FOURS,SIXES,STRICK RATE,BATTING_TEAM
+Jonny Bairstow,33,4,1,94.28,England
+Dawid Malan,14,2,0,58.33,England
+Joe Root,77,4,1,89.53,England
+Harry Brook,25,4,1,156.25,England
+Moeen Ali,11,1,0,64.7,England
+Jos Buttler(c) wk ,43,2,2,102.38,England
+Liam Livingstone,20,3,0,90.9,England
+Sam Curran,14,0,0,73.68,England
+Chris Woakes,11,1,0,91.66,England
+Adil Rashid,15,0,1,115.38,England
+Mark Wood,13,0,0,92.85,England
+Devon Conway,152,19,3,125.61,New-Zealand
+Will Young,0,0,0,0,New-Zealand
+Rachin Ravindra,123,11,5,128.12,New-Zealand
+Fakhar Zaman,12,3,0,80,Pakistan
+Imam-ul-Haq,15,2,0,78.94,Pakistan
+Babar Azam(c),5,0,0,27.77,Pakistan
+Mohammad Rizwan wk ,68,8,0,90.66,Pakistan
+Saud Shakeel,68,9,1,130.76,Pakistan
+Iftikhar Ahmed,9,1,0,81.81,Pakistan
+Mohammad Nawaz,39,4,0,90.69,Pakistan
+Shadab Khan,32,2,1,94.11,Pakistan
+Hasan Ali,0,0,0,0,Pakistan
+Shaheen Shah Afridi,13,2,0,108.33,Pakistan
+Haris Rauf,16,2,1,114.28,Pakistan
+Vikramjit Singh,52,4,1,77.61,Netherlands
+Max O'Dowd,5,1,0,41.66,Netherlands
+Colin Ackermann,17,3,0,80.95,Netherlands
+Bas de Leede,67,6,2,98.52,Netherlands
+Teja Nidamanuru,5,1,0,55.55,Netherlands
+Scott Edwards(c) wk ,0,0,0,0,Netherlands
+Saqib Zulfiqar,10,1,0,55.55,Netherlands
+Roelof van der Merwe,4,0,0,57.14,Netherlands
+Logan van Beek,28,3,1,100,Netherlands
+Aryan Dutt,1,0,0,50,Netherlands
+Paul van Meekeren,7,1,0,58.33,Netherlands
+Rahmanullah Gurbaz wk ,47,4,1,75.8,Afghanistan
+Ibrahim Zadran,22,3,1,88,Afghanistan
+Rahmat Shah,18,1,0,72,Afghanistan
+Hashmatullah Shahidi(c),18,2,0,47.36,Afghanistan
+Najibullah Zadran,5,0,0,38.46,Afghanistan
+Mohammad Nabi,6,0,0,50,Afghanistan
+Azmatullah Omarzai,22,4,0,110,Afghanistan
+Rashid Khan,9,1,0,56.25,Afghanistan
+Mujeeb Ur Rahman,1,0,0,25,Afghanistan
+Naveen-ul-Haq,0,0,0,0,Afghanistan
+Fazalhaq Farooqi,0,0,0,0,Afghanistan
+Tanzid Hasan,5,1,0,38.46,Bangladesh
+Litton Das,13,2,0,72.22,Bangladesh
+Mehidy Hasan Miraz,57,5,0,78.08,Bangladesh
+Najmul Hossain Shanto,59,3,1,71.08,Bangladesh
+Shakib Al Hasan(c),14,2,0,73.68,Bangladesh
+Mushfiqur Rahim wk ,2,0,0,66.66,Bangladesh
+Quinton de Kock wk ,100,12,3,119.04,South-Africa
+Temba Bavuma(c),8,2,0,160,South-Africa
+Rassie van der Dussen,108,13,2,98.18,South-Africa
+Aiden Markram,106,14,3,196.29,South-Africa
+Heinrich Klaasen,32,1,3,160,South-Africa
+David Miller,39,3,2,185.71,South-Africa
+Marco Jansen,12,0,1,171.42,South-Africa
+Pathum Nissanka,0,0,0,0,Sri-Lanka
+Kusal Perera,7,1,0,46.66,Sri-Lanka
+Kusal Mendis wk ,76,4,8,180.95,Sri-Lanka
+Sadeera Samarawickrama,23,3,1,121.05,Sri-Lanka
+Charith Asalanka,79,8,4,121.53,Sri-Lanka
+Dhananjaya de Silva,11,1,0,78.57,Sri-Lanka
+Dasun Shanaka(c),68,6,3,109.67,Sri-Lanka
+Dunith Wellalage,0,0,0,0,Sri-Lanka
+Kasun Rajitha,33,4,1,106.45,Sri-Lanka
+Matheesha Pathirana,5,1,0,31.25,Sri-Lanka
+Dilshan Madushanka,4,1,0,200,Sri-Lanka
+David Warner,41,6,0,78.84,Australia
+Mitchell Marsh,0,0,0,0,Australia
+Steven Smith,46,5,0,64.78,Australia
+Marnus Labuschagne,27,1,0,65.85,Australia
+Glenn Maxwell,15,1,0,60,Australia
+Alex Carey wk ,0,0,0,0,Australia
+Cameron Green,8,0,0,40,Australia
+Pat Cummins(c),15,1,1,62.5,Australia
+Mitchell Starc,28,2,1,80,Australia
+Adam Zampa,6,0,0,30,Australia
+Josh Hazlewood,1,0,0,100,Australia
+Rohit Sharma(c),0,0,0,0,India
+Ishan Kishan,0,0,0,0,India
+Virat Kohli,85,6,0,73.27,India
+Shreyas Iyer,0,0,0,0,India
+KL Rahul wk ,97,8,2,84.34,India
+Hardik Pandya,11,0,1,137.5,India
+Devon Conway,32,5,1,80,New-Zealand
+Will Young,70,7,2,87.5,New-Zealand
+Rachin Ravindra,51,3,1,100,New-Zealand
+Daryl Mitchell,48,5,2,102.12,New-Zealand
+Tom Latham(c) wk ,53,6,1,115.21,New-Zealand
+Glenn Phillips,4,1,0,100,New-Zealand
+Mark Chapman,5,0,0,38.46,New-Zealand
+Mitchell Santner,36,3,2,211.76,New-Zealand
+Matt Henry,10,0,1,250,New-Zealand
+Vikramjit Singh,12,1,0,60,Netherlands
+Max O'Dowd,16,2,0,51.61,Netherlands
+Colin Ackermann,69,5,0,94.52,Netherlands
+Bas de Leede,18,3,0,72,Netherlands
+Teja Nidamanuru,21,2,1,80.76,Netherlands
+Scott Edwards(c) wk ,30,2,1,111.11,Netherlands
+Sybrand Engelbrecht,29,3,0,85.29,Netherlands
+Roelof van der Merwe,1,0,0,16.66,Netherlands
+Ryan Klein,8,0,0,53.33,Netherlands
+Aryan Dutt,11,0,1,55,Netherlands
+Paul van Meekeren,4,1,0,133.33,Netherlands
+Jonny Bairstow,52,8,0,88.13,England
+Dawid Malan,140,16,5,130.84,England
+Joe Root,82,8,1,120.58,England
+Jos Buttler(c) wk ,20,1,1,200,England
+Harry Brook,20,3,0,133.33,England
+Liam Livingstone,0,0,0,0,England
+Sam Curran,11,1,0,73.33,England
+Chris Woakes,14,2,0,127.27,England
+Adil Rashid,11,1,0,157.14,England
+Mark Wood,6,1,0,120,England
+Reece Topley,1,0,0,50,England
+Litton Das,76,7,2,115.15,Bangladesh
+Tanzid Hasan,1,0,0,50,Bangladesh
+Najmul Hossain Shanto,0,0,0,0,Bangladesh
+Shakib Al Hasan(c),1,0,0,11.11,Bangladesh
+Mehidy Hasan Miraz,8,1,0,114.28,Bangladesh
+Mushfiqur Rahim wk ,51,4,0,79.68,Bangladesh
+Towhid Hridoy,39,2,0,63.93,Bangladesh
+Mahedi Hasan,14,1,0,43.75,Bangladesh
+Taskin Ahmed,15,0,1,60,Bangladesh
+Shoriful Islam,12,2,0,85.71,Bangladesh
+Mustafizur Rahman,3,0,0,33.33,Bangladesh
+Pathum Nissanka,51,7,1,83.6,Sri-Lanka
+Kusal Perera,0,0,0,0,Sri-Lanka
+Kusal Mendis wk ,122,14,6,158.44,Sri-Lanka
+Sadeera Samarawickrama,108,11,2,121.34,Sri-Lanka
+Charith Asalanka,1,0,0,33.33,Sri-Lanka
+Dhananjaya de Silva,25,3,0,73.52,Sri-Lanka
+Dasun Shanaka(c),12,0,0,66.66,Sri-Lanka
+Dunith Wellalage,10,1,0,125,Sri-Lanka
+Maheesh Theekshana,0,0,0,0,Sri-Lanka
+Matheesha Pathirana,1,0,0,33.33,Sri-Lanka
+Abdullah Shafique,113,10,3,109.7,Pakistan
+Imam-ul-Haq,12,1,0,100,Pakistan
+Babar Azam(c),10,1,0,66.66,Pakistan
+Mohammad Rizwan wk ,131,8,3,108.26,Pakistan
+Saud Shakeel,31,2,0,103.33,Pakistan
+Iftikhar Ahmed,22,4,0,220,Pakistan
+Rahmanullah Gurbaz wk ,21,3,1,75,Afghanistan
+Ibrahim Zadran,22,4,0,78.57,Afghanistan
+Rahmat Shah,16,3,0,72.72,Afghanistan
+Hashmatullah Shahidi(c),80,8,1,90.9,Afghanistan
+Azmatullah Omarzai,62,2,4,89.85,Afghanistan
+Mohammad Nabi,19,1,0,70.37,Afghanistan
+Najibullah Zadran,2,0,0,25,Afghanistan
+Rashid Khan,16,1,1,133.33,Afghanistan
+Mujeeb Ur Rahman,10,2,0,83.33,Afghanistan
+Naveen-ul-Haq,9,1,0,112.5,Afghanistan
+Rohit Sharma(c),131,16,5,155.95,India
+Ishan Kishan,47,5,2,100,India
+Virat Kohli,55,6,0,98.21,India
+Shreyas Iyer,25,1,1,108.69,India
+Quinton de Kock wk ,109,8,5,102.83,South-Africa
+Temba Bavuma(c),35,2,0,63.63,South-Africa
+Rassie van der Dussen,26,2,0,86.66,South-Africa
+Aiden Markram,56,7,1,127.27,South-Africa
+Heinrich Klaasen,29,3,0,107.4,South-Africa
+David Miller,17,1,1,130.76,South-Africa
+Marco Jansen,26,3,1,118.18,South-Africa
+Kagiso Rabada,0,0,0,0,South-Africa
+Keshav Maharaj,0,0,0,0,South-Africa
+Mitchell Marsh,7,0,0,46.66,Australia
+David Warner,13,2,0,48.14,Australia
+Steven Smith,19,4,0,118.75,Australia
+Marnus Labuschagne,46,3,0,62.16,Australia
+Josh Inglis wk ,5,1,0,125,Australia
+Glenn Maxwell,3,0,0,17.64,Australia
+Marcus Stoinis,5,1,0,125,Australia
+Mitchell Starc,27,3,0,52.94,Australia
+Pat Cummins(c),22,4,0,104.76,Australia
+Adam Zampa,11,1,0,68.75,Australia
+Josh Hazlewood,2,0,0,100,Australia
+Litton Das,0,0,0,0,Bangladesh
+Tanzid Hasan,16,4,0,94.11,Bangladesh
+Mehidy Hasan Miraz,30,4,0,65.21,Bangladesh
+Najmul Hossain Shanto,7,1,0,87.5,Bangladesh
+Shakib Al Hasan(c),40,3,2,78.43,Bangladesh
+Mushfiqur Rahim wk ,66,6,2,88,Bangladesh
+Towhid Hridoy,13,0,0,52,Bangladesh
+Mahmudullah,41,2,2,83.67,Bangladesh
+Taskin Ahmed,17,0,2,89.47,Bangladesh
+Mustafizur Rahman,4,0,0,40,Bangladesh
+Shoriful Islam,2,0,0,66.66,Bangladesh
+Devon Conway,45,3,0,76.27,New-Zealand
+Rachin Ravindra,9,2,0,69.23,New-Zealand
+Kane Williamson(c),78,8,1,72.89,New-Zealand
+Daryl Mitchell,89,6,4,132.83,New-Zealand
+Glenn Phillips,16,1,1,145.45,New-Zealand
+Abdullah Shafique,20,3,0,83.33,Pakistan
+Imam-ul-Haq,36,6,0,94.73,Pakistan
+Babar Azam(c),50,7,0,86.2,Pakistan
+Mohammad Rizwan wk ,49,7,0,71.01,Pakistan
+Saud Shakeel,6,0,0,60,Pakistan
+Iftikhar Ahmed,4,1,0,100,Pakistan
+Shadab Khan,2,0,0,40,Pakistan
+Mohammad Nawaz,4,0,0,28.57,Pakistan
+Hasan Ali,12,2,0,63.15,Pakistan
+Shaheen Shah Afridi,2,0,0,20,Pakistan
+Haris Rauf,2,0,0,33.33,Pakistan
+Rohit Sharma(c),86,6,6,136.5,India
+Shubman Gill,16,4,0,145.45,India
+Virat Kohli,16,3,0,88.88,India
+Shreyas Iyer,53,3,2,85.48,India
+KL Rahul wk ,19,2,0,65.51,India
+Rahmanullah Gurbaz,80,8,4,140.35,Afghanistan
+Ibrahim Zadran,28,3,0,58.33,Afghanistan
+Rahmat Shah,3,0,0,37.5,Afghanistan
+Hashmatullah Shahidi(c),14,0,0,38.88,Afghanistan
+Azmatullah Omarzai,19,1,1,79.16,Afghanistan
+Ikram Alikhil wk ,58,3,2,87.87,Afghanistan
+Mohammad Nabi,9,1,0,60,Afghanistan
+Rashid Khan,23,3,0,104.54,Afghanistan
+Mujeeb Ur Rahman,28,3,1,175,Afghanistan
+Naveen-ul-Haq,5,1,0,83.33,Afghanistan
+Fazalhaq Farooqi,2,0,0,50,Afghanistan
+Jonny Bairstow,2,0,0,50,England
+Dawid Malan,32,4,0,82.05,England
+Joe Root,11,2,0,64.7,England
+Harry Brook,66,7,1,108.19,England
+Jos Buttler(c) wk ,9,1,0,50,England
+Liam Livingstone,10,1,0,71.42,England
+Sam Curran,10,0,0,43.47,England
+Chris Woakes,9,1,0,34.61,England
+Adil Rashid,20,2,0,153.84,England
+Mark Wood,18,3,0,81.81,England
+Reece Topley,15,3,0,214.28,England
+Pathum Nissanka,61,8,0,91.04,Sri-Lanka
+Kusal Perera,78,12,0,95.12,Sri-Lanka
+Kusal Mendis(c) wk ,9,0,0,69.23,Sri-Lanka
+Sadeera Samarawickrama,8,1,0,100,Sri-Lanka
+Charith Asalanka,25,0,1,64.1,Sri-Lanka
+Dhananjaya de Silva,7,1,0,53.84,Sri-Lanka
+Dunith Wellalage,2,0,0,22.22,Sri-Lanka
+Chamika Karunaratne,2,0,0,18.18,Sri-Lanka
+Maheesh Theekshana,0,0,0,0,Sri-Lanka
+Lahiru Kumara,4,1,0,50,Sri-Lanka
+Dilshan Madushanka,0,0,0,0,Sri-Lanka
+Mitchell Marsh,52,9,0,101.96,Australia
+David Warner,11,0,1,183.33,Australia
+Steven Smith,0,0,0,0,Australia
+Marnus Labuschagne,40,2,0,66.66,Australia
+Josh Inglis wk ,58,5,1,98.3,Australia
+Glenn Maxwell,31,4,2,147.61,Australia
+Marcus Stoinis,20,2,1,200,Australia
+Vikramjit Singh,2,0,0,12.5,Netherlands
+Max O'Dowd,18,4,0,72,Netherlands
+Colin Ackermann,12,1,0,48,Netherlands
+Bas de Leede,2,0,0,28.57,Netherlands
+Sybrand Engelbrecht,19,1,1,51.35,Netherlands
+Teja Nidamanuru,20,3,0,80,Netherlands
+Scott Edwards(c) wk ,78,10,1,113.04,Netherlands
+Logan van Beek,10,1,0,37.03,Netherlands
+Roelof van der Merwe,29,3,1,152.63,Netherlands
+Aryan Dutt,23,0,3,255.55,Netherlands
+Temba Bavuma(c),16,2,1,51.61,South-Africa
+Quinton de Kock wk ,20,3,0,90.9,South-Africa
+Rassie van der Dussen,4,0,0,57.14,South-Africa
+Aiden Markram,1,0,0,33.33,South-Africa
+Heinrich Klaasen,28,4,0,100,South-Africa
+David Miller,43,4,1,82.69,South-Africa
+Marco Jansen,9,0,0,36,South-Africa
+Gerald Coetzee,22,2,1,95.65,South-Africa
+Keshav Maharaj,40,5,1,108.1,South-Africa
+Kagiso Rabada,9,0,1,150,South-Africa
+Lungi Ngidi,7,0,0,29.16,South-Africa
+Devon Conway,20,3,0,111.11,New-Zealand
+Will Young,54,4,3,84.37,New-Zealand
+Rachin Ravindra,32,2,1,78.04,New-Zealand
+Daryl Mitchell,1,0,0,14.28,New-Zealand
+Tom Latham(c) wk ,68,3,2,91.89,New-Zealand
+Glenn Phillips,71,4,4,88.75,New-Zealand
+Mark Chapman,25,2,1,208.33,New-Zealand
+Mitchell Santner,7,1,0,140,New-Zealand
+Rahmanullah Gurbaz,11,0,1,52.38,Afghanistan
+Ibrahim Zadran,14,2,0,93.33,Afghanistan
+Rahmat Shah,36,1,0,58.06,Afghanistan
+Hashmatullah Shahidi(c),8,1,0,27.58,Afghanistan
+Azmatullah Omarzai,27,2,0,84.37,Afghanistan
+Ikram Alikhil wk ,19,3,0,90.47,Afghanistan
+Mohammad Nabi,7,1,0,77.77,Afghanistan
+Rashid Khan,8,0,1,61.53,Afghanistan
+Mujeeb Ur Rahman,4,1,0,133.33,Afghanistan
+Naveen-ul-Haq,0,0,0,0,Afghanistan
+Fazalhaq Farooqi,0,0,0,0,Afghanistan
+Tanzid Hasan,51,5,3,118.6,Bangladesh
+Litton Das,66,7,0,80.48,Bangladesh
+Najmul Hossain Shanto(c),8,0,0,47.05,Bangladesh
+Mehidy Hasan Miraz,3,0,0,23.07,Bangladesh
+Towhid Hridoy,16,0,0,45.71,Bangladesh
+Mushfiqur Rahim wk ,38,1,1,82.6,Bangladesh
+Mahmudullah,46,3,3,127.77,Bangladesh
+Nasum Ahmed,14,2,0,77.77,Bangladesh
+Mustafizur Rahman,1,0,0,14.28,Bangladesh
+Shoriful Islam,7,0,1,233.33,Bangladesh
+Rohit Sharma(c),48,7,2,120,India
+Shubman Gill,53,5,2,96.36,India
+Virat Kohli,103,6,4,106.18,India
+Shreyas Iyer,19,2,0,76,India
+KL Rahul wk ,34,3,1,100,India
+David Warner,163,14,9,131.45,Australia
+Mitchell Marsh,121,10,9,112.03,Australia
+Glenn Maxwell,0,0,0,0,Australia
+Steven Smith,7,0,0,77.77,Australia
+Marcus Stoinis,21,1,1,87.5,Australia
+Josh Inglis wk ,13,3,0,144.44,Australia
+Marnus Labuschagne,8,1,0,66.66,Australia
+Pat Cummins(c),6,0,0,75,Australia
+Mitchell Starc,2,0,0,66.66,Australia
+Josh Hazlewood,0,0,0,0,Australia
+Adam Zampa,1,0,0,100,Australia
+Abdullah Shafique,64,7,2,104.91,Pakistan
+Imam-ul-Haq,70,10,0,98.59,Pakistan
+Babar Azam(c),18,3,0,128.57,Pakistan
+Mohammad Rizwan wk ,46,5,0,115,Pakistan
+Saud Shakeel,30,5,0,96.77,Pakistan
+Iftikhar Ahmed,26,0,3,130,Pakistan
+Mohammad Nawaz,14,0,1,87.5,Pakistan
+Usama Mir,0,0,0,0,Pakistan
+Shaheen Shah Afridi,10,2,0,125,Pakistan
+Hasan Ali,8,2,0,100,Pakistan
+Haris Rauf,0,0,0,0,Pakistan
+Vikramjit Singh,4,1,0,30.76,Netherlands
+Max O'Dowd,16,1,1,59.25,Netherlands
+Colin Ackermann,29,5,0,93.54,Netherlands
+Bas de Leede,6,0,0,28.57,Netherlands
+Teja Nidamanuru,9,0,0,56.25,Netherlands
+Scott Edwards(c) wk ,16,0,0,100,Netherlands
+Sybrand Engelbrecht,70,4,1,85.36,Netherlands
+Logan van Beek,59,1,1,78.66,Netherlands
+Roelof van der Merwe,7,0,0,100,Netherlands
+Aryan Dutt,9,1,0,150,Netherlands
+Paul van Meekeren,4,0,0,80,Netherlands
+Pathum Nissanka,54,9,0,103.84,Sri-Lanka
+Kusal Perera,5,1,0,62.5,Sri-Lanka
+Kusal Mendis(c) wk ,11,2,0,64.7,Sri-Lanka
+Sadeera Samarawickrama,91,7,0,85.04,Sri-Lanka
+Charith Asalanka,44,2,1,66.66,Sri-Lanka
+Dhananjaya de Silva,30,1,2,81.08,Sri-Lanka
+Dushan Hemantha,4,1,0,133.33,Sri-Lanka
+Quinton de Kock wk ,4,1,0,200,South-Africa
+Reeza Hendricks,85,9,3,113.33,South-Africa
+Rassie van der Dussen,60,8,0,98.36,South-Africa
+Aiden Markram(c),42,4,0,95.45,South-Africa
+Heinrich Klaasen,109,12,4,162.68,South-Africa
+David Miller,5,1,0,83.33,South-Africa
+Marco Jansen,75,3,6,178.57,South-Africa
+Gerald Coetzee,3,0,0,100,South-Africa
+Keshav Maharaj,1,0,0,100,South-Africa
+Jonny Bairstow,10,1,1,83.33,England
+Dawid Malan,6,1,0,54.54,England
+Joe Root,2,0,0,33.33,England
+Ben Stokes,5,1,0,62.5,England
+Harry Brook,17,2,1,68,England
+Jos Buttler(c) wk ,15,2,1,214.28,England
+David Willey,12,1,1,100,England
+Adil Rashid,10,1,0,71.42,England
+Gus Atkinson,35,7,0,166.66,England
+Mark Wood,43,2,5,252.94,England
+Devon Conway,0,0,0,0,New-Zealand
+Will Young,17,3,0,62.96,New-Zealand
+Rachin Ravindra,75,6,1,86.2,New-Zealand
+Daryl Mitchell,130,9,5,102.36,New-Zealand
+Tom Latham(c) wk ,5,1,0,71.42,New-Zealand
+Glenn Phillips,23,0,1,88.46,New-Zealand
+Mark Chapman,6,0,0,75,New-Zealand
+Mitchell Santner,1,0,0,50,New-Zealand
+Matt Henry,0,0,0,0,New-Zealand
+Lockie Ferguson,1,0,0,20,New-Zealand
+Trent Boult,0,0,0,0,New-Zealand
+Rohit Sharma(c),46,4,4,115,India
+Shubman Gill,26,5,0,83.87,India
+Virat Kohli,95,8,2,91.34,India
+Shreyas Iyer,33,6,0,113.79,India
+KL Rahul wk ,27,3,0,77.14,India
+Suryakumar Yadav,2,0,0,50,India
+Ravindra Jadeja,39,3,1,88.63,India
+Mohammed Shami,1,0,0,100,India
+Abdullah Shafique,58,5,2,77.33,Pakistan
+Imam-ul-Haq,17,2,0,77.27,Pakistan
+Babar Azam(c),74,4,1,80.43,Pakistan
+Mohammad Rizwan wk ,8,0,1,80,Pakistan
+Saud Shakeel,25,3,0,73.52,Pakistan
+Shadab Khan,40,1,1,105.26,Pakistan
+Iftikhar Ahmed,40,2,4,148.14,Pakistan
+Shaheen Shah Afridi,3,0,0,100,Pakistan
+Rahmanullah Gurbaz,65,9,1,122.64,Afghanistan
+Ibrahim Zadran,87,10,0,76.99,Afghanistan
+Rahmat Shah,77,5,2,91.66,Afghanistan
+Hashmatullah Shahidi(c),48,4,0,106.66,Afghanistan
+Quinton de Kock wk ,174,15,7,124.28,South-Africa
+Reeza Hendricks,12,1,0,63.15,South-Africa
+Rassie van der Dussen,1,0,0,14.28,South-Africa
+Aiden Markram(c),60,7,0,86.95,South-Africa
+Heinrich Klaasen,90,2,8,183.67,South-Africa
+David Miller,34,1,4,226.66,South-Africa
+Marco Jansen,1,0,0,100,South-Africa
+Tanzid Hasan,12,1,0,70.58,Bangladesh
+Litton Das,22,3,1,50,Bangladesh
+Najmul Hossain Shanto,0,0,0,0,Bangladesh
+Shakib Al Hasan(c),1,0,0,25,Bangladesh
+Mushfiqur Rahim wk ,8,1,0,47.05,Bangladesh
+Mahmudullah,111,11,4,100,Bangladesh
+Mehidy Hasan Miraz,11,1,0,57.89,Bangladesh
+Nasum Ahmed,19,3,0,100,Bangladesh
+Hasan Mahmud,15,2,0,60,Bangladesh
+Mustafizur Rahman,11,2,0,52.38,Bangladesh
+Shoriful Islam,6,1,0,150,Bangladesh
+Mitchell Marsh,9,2,0,60,Australia
+David Warner,104,11,3,111.82,Australia
+Steven Smith,71,9,1,104.41,Australia
+Marnus Labuschagne,62,7,2,131.91,Australia
+Josh Inglis wk ,14,1,1,116.66,Australia
+Glenn Maxwell,106,9,8,240.9,Australia
+Cameron Green,8,1,0,72.72,Australia
+Pat Cummins(c),12,2,0,133.33,Australia
+Mitchell Starc,0,0,0,0,Australia
+Adam Zampa,1,0,0,100,Australia
+Vikramjit Singh,25,6,0,100,Netherlands
+Max O'Dowd,6,1,0,66.66,Netherlands
+Colin Ackermann,10,2,0,90.9,Netherlands
+Sybrand Engelbrecht,11,1,0,52.38,Netherlands
+Bas de Leede,4,1,0,57.14,Netherlands
+Scott Edwards(c) wk ,12,0,0,54.54,Netherlands
+Teja Nidamanuru,14,2,0,77.77,Netherlands
+Logan van Beek,0,0,0,0,Netherlands
+Roelof van der Merwe,0,0,0,0,Netherlands
+Aryan Dutt,1,0,0,12.5,Netherlands
+Paul van Meekeren,0,0,0,0,Netherlands
+Jonny Bairstow,30,3,0,96.77,England
+Dawid Malan,28,6,0,112,England
+Joe Root,3,0,0,30,England
+Ben Stokes,43,6,0,58.9,England
+Jos Buttler(c) wk ,8,1,0,133.33,England
+Liam Livingstone,1,0,0,16.66,England
+Moeen Ali,15,1,0,100,England
+Chris Woakes,0,0,0,0,England
+David Willey,14,1,1,82.35,England
+Adil Rashid,2,0,0,28.57,England
+Mark Wood,5,1,0,83.33,England
+Pathum Nissanka,77,7,2,92.77,Sri-Lanka
+Kusal Perera,4,1,0,80,Sri-Lanka
+Kusal Mendis(c) wk ,11,2,0,91.66,Sri-Lanka
+Sadeera Samarawickrama,65,7,1,120.37,Sri-Lanka
+Abdullah Shafique,9,1,0,52.94,Pakistan
+Imam-ul-Haq,12,2,0,66.66,Pakistan
+Babar Azam(c),50,4,1,76.92,Pakistan
+Mohammad Rizwan wk ,31,4,1,114.81,Pakistan
+Iftikhar Ahmed,21,1,1,67.74,Pakistan
+Saud Shakeel,52,7,0,100,Pakistan
+Shadab Khan,43,3,2,119.44,Pakistan
+Mohammad Nawaz,24,1,2,100,Pakistan
+Shaheen Shah Afridi,2,0,0,50,Pakistan
+Mohammad Wasim,7,0,1,77.77,Pakistan
+Haris Rauf,0,0,0,0,Pakistan
+Temba Bavuma(c),28,4,1,103.7,South-Africa
+Quinton de Kock wk ,24,5,0,171.42,South-Africa
+Rassie van der Dussen,21,0,0,53.84,South-Africa
+Aiden Markram,91,7,3,97.84,South-Africa
+Heinrich Klaasen,12,0,1,120,South-Africa
+David Miller,29,2,2,87.87,South-Africa
+Marco Jansen,20,2,1,142.85,South-Africa
+Gerald Coetzee,10,0,0,76.92,South-Africa
+Keshav Maharaj,7,1,0,33.33,South-Africa
+Lungi Ngidi,4,0,0,28.57,South-Africa
+Tabraiz Shamsi,4,0,0,66.66,South-Africa
+David Warner,81,5,6,124.61,Australia
+Travis Head,109,10,7,162.68,Australia
+Mitchell Marsh,36,2,0,70.58,Australia
+Steven Smith,18,2,0,105.88,Australia
+Marnus Labuschagne,18,2,0,69.23,Australia
+Glenn Maxwell,41,5,2,170.83,Australia
+Josh Inglis wk ,38,4,1,135.71,Australia
+Pat Cummins(c),37,2,4,264.28,Australia
+Mitchell Starc,1,0,0,33.33,Australia
+Adam Zampa,0,0,0,0,Australia
+Devon Conway,28,6,0,164.7,New-Zealand
+Will Young,32,4,1,86.48,New-Zealand
+Rachin Ravindra,116,9,5,130.33,New-Zealand
+Daryl Mitchell,54,6,1,105.88,New-Zealand
+Tom Latham(c) wk ,21,2,0,95.45,New-Zealand
+Glenn Phillips,12,1,0,75,New-Zealand
+James Neesham,58,3,3,148.71,New-Zealand
+Mitchell Santner,17,1,1,141.66,New-Zealand
+Matt Henry,9,1,0,112.5,New-Zealand
+Trent Boult,10,0,1,125,New-Zealand
+Lockie Ferguson,0,0,0,0,New-Zealand
+Vikramjit Singh,3,0,0,33.33,Netherlands
+Max O'Dowd,0,0,0,0,Netherlands
+Wesley Barresi,41,8,0,100,Netherlands
+Colin Ackermann,15,1,0,45.45,Netherlands
+Scott Edwards(c) wk ,68,6,0,76.4,Netherlands
+Bas de Leede,17,2,0,53.12,Netherlands
+Sybrand Engelbrecht,35,3,0,57.37,Netherlands
+Logan van Beek,23,2,1,143.75,Netherlands
+Shariz Ahmad,6,0,0,75,Netherlands
+Aryan Dutt,9,0,1,150,Netherlands
+Paul van Meekeren,0,0,0,0,Netherlands
+Litton Das,3,0,0,25,Bangladesh
+Tanzid Hasan,15,3,0,93.75,Bangladesh
+Mehidy Hasan Miraz,35,5,1,87.5,Bangladesh
+Najmul Hossain Shanto,9,2,0,50,Bangladesh
+Shakib Al Hasan(c),5,0,0,35.71,Bangladesh
+Mushfiqur Rahim wk ,1,0,0,20,Bangladesh
+Mahmudullah,20,2,0,48.78,Bangladesh
+Mahedi Hasan,17,1,0,44.73,Bangladesh
+Taskin Ahmed,11,1,0,31.42,Bangladesh
+Mustafizur Rahman,20,2,1,57.14,Bangladesh
+Rohit Sharma(c),87,10,3,86.13,India
+Shubman Gill,9,1,0,69.23,India
+Virat Kohli,0,0,0,0,India
+Shreyas Iyer,4,0,0,25,India
+KL Rahul wk ,39,3,0,67.24,India
+Suryakumar Yadav,49,4,1,104.25,India
+Ravindra Jadeja,8,0,0,61.53,India
+Mohammed Shami,1,0,0,20,India
+Jasprit Bumrah,16,1,0,64,India
+Kuldeep Yadav,9,1,0,69.23,India
+Jonny Bairstow,14,2,0,60.86,England
+Dawid Malan,16,2,1,94.11,England
+Joe Root,0,0,0,0,England
+Ben Stokes,0,0,0,0,England
+Jos Buttler(c) wk ,10,1,0,43.47,England
+Moeen Ali,15,0,0,48.38,England
+Liam Livingstone,27,2,0,58.69,England
+Chris Woakes,10,1,0,50,England
+David Willey,16,0,2,94.11,England
+Adil Rashid,13,2,0,65,England
+Mark Wood,0,0,0,0,England
+Pathum Nissanka,46,5,0,76.66,Sri-Lanka
+Dimuth Karunaratne,15,1,0,71.42,Sri-Lanka
+Kusal Mendis(c) wk ,39,3,0,78,Sri-Lanka
+Sadeera Samarawickrama,36,3,0,90,Sri-Lanka
+Charith Asalanka,22,2,0,78.57,Sri-Lanka
+Dhananjaya de Silva,14,1,0,53.84,Sri-Lanka
+Angelo Mathews,23,1,1,88.46,Sri-Lanka
+Dushmantha Chameera,1,0,0,25,Sri-Lanka
+Maheesh Theekshana,29,3,1,93.54,Sri-Lanka
+Kasun Rajitha,5,0,0,71.42,Sri-Lanka
+Dilshan Madushanka,0,0,0,0,Sri-Lanka
+Rahmanullah Gurbaz,0,0,0,0,Afghanistan
+Ibrahim Zadran,39,4,1,68.42,Afghanistan
+Rahmat Shah,62,7,0,83.78,Afghanistan
+Hashmatullah Shahidi(c),58,2,1,78.37,Afghanistan
+Azmatullah Omarzai,73,6,3,115.87,Afghanistan
+Tanzid Hasan,0,0,0,0,Bangladesh
+Litton Das,45,6,0,70.31,Bangladesh
+Najmul Hossain Shanto,4,1,0,133.33,Bangladesh
+Mushfiqur Rahim wk ,5,1,0,62.5,Bangladesh
+Mahmudullah,56,6,1,80,Bangladesh
+Shakib Al Hasan(c),43,4,0,67.18,Bangladesh
+Towhid Hridoy,7,0,1,233.33,Bangladesh
+Mehidy Hasan Miraz,25,1,1,83.33,Bangladesh
+Taskin Ahmed,6,0,0,46.15,Bangladesh
+Mustafizur Rahman,3,0,0,42.85,Bangladesh
+Shoriful Islam,1,0,0,25,Bangladesh
+Abdullah Shafique,68,9,2,98.55,Pakistan
+Fakhar Zaman,81,3,7,109.45,Pakistan
+Babar Azam(c),9,1,0,56.25,Pakistan
+Mohammad Rizwan wk ,26,4,0,123.8,Pakistan
+Iftikhar Ahmed,17,2,0,113.33,Pakistan
+Quinton de Kock wk ,114,10,3,98.27,South-Africa
+Temba Bavuma(c),24,4,1,85.71,South-Africa
+Rassie van der Dussen,133,9,5,112.71,South-Africa
+David Miller,53,2,4,176.66,South-Africa
+Heinrich Klaasen,15,1,1,214.28,South-Africa
+Aiden Markram,6,0,1,600,South-Africa
+Devon Conway,2,0,0,33.33,New-Zealand
+Will Young,33,5,0,89.18,New-Zealand
+Rachin Ravindra,9,1,0,56.25,New-Zealand
+Daryl Mitchell,24,4,0,80,New-Zealand
+Tom Latham(c) wk ,4,0,0,26.66,New-Zealand
+Glenn Phillips,60,4,4,120,New-Zealand
+Mitchell Santner,7,1,0,38.88,New-Zealand
+Tim Southee,7,1,0,63.63,New-Zealand
+James Neesham,0,0,0,0,New-Zealand
+Trent Boult,9,1,0,64.28,New-Zealand
+Matt Henry,0,0,0,0,New-Zealand
+Rohit Sharma(c),4,1,0,200,India
+Shubman Gill,92,11,2,100,India
+Virat Kohli,88,11,0,93.61,India
+Shreyas Iyer,82,3,6,146.42,India
+KL Rahul wk ,21,2,0,110.52,India
+Suryakumar Yadav,12,2,0,133.33,India
+Ravindra Jadeja,35,1,1,145.83,India
+Mohammed Shami,2,0,0,50,India
+Jasprit Bumrah,1,0,0,100,India
+Pathum Nissanka,0,0,0,0,Sri-Lanka
+Dimuth Karunaratne,0,0,0,0,Sri-Lanka
+Kusal Mendis(c) wk ,1,0,0,10,Sri-Lanka
+Sadeera Samarawickrama,0,0,0,0,Sri-Lanka
+Charith Asalanka,1,0,0,4.16,Sri-Lanka
+Angelo Mathews,12,1,0,48,Sri-Lanka
+Dushan Hemantha,0,0,0,0,Sri-Lanka
+Dushmantha Chameera,0,0,0,0,Sri-Lanka
+Maheesh Theekshana,12,2,0,52.17,Sri-Lanka
+Kasun Rajitha,14,2,0,82.35,Sri-Lanka
+Dilshan Madushanka,5,1,0,83.33,Sri-Lanka
+Wesley Barresi,1,0,0,25,Netherlands
+Max O'Dowd,42,9,0,105,Netherlands
+Colin Ackermann,29,4,0,82.85,Netherlands
+Sybrand Engelbrecht,58,6,0,67.44,Netherlands
+Scott Edwards(c) wk ,0,0,0,0,Netherlands
+Bas de Leede,3,0,0,50,Netherlands
+Saqib Zulfiqar,3,0,0,20,Netherlands
+Logan van Beek,2,0,0,15.38,Netherlands
+Roelof van der Merwe,11,0,0,33.33,Netherlands
+Aryan Dutt,10,0,0,45.45,Netherlands
+Paul van Meekeren,4,0,0,16.66,Netherlands
+Rahmanullah Gurbaz,10,2,0,90.9,Afghanistan
+Ibrahim Zadran,20,2,0,58.82,Afghanistan
+Rahmat Shah,52,8,0,96.29,Afghanistan
+Hashmatullah Shahidi(c),56,6,0,87.5,Afghanistan
+Azmatullah Omarzai,31,3,0,110.71,Afghanistan
+Devon Conway,35,6,0,89.74,New-Zealand
+Rachin Ravindra,108,15,1,114.89,New-Zealand
+Kane Williamson(c),95,10,2,120.25,New-Zealand
+Daryl Mitchell,29,4,1,161.11,New-Zealand
+Mark Chapman,39,7,0,144.44,New-Zealand
+Glenn Phillips,41,4,2,164,New-Zealand
+Mitchell Santner,26,0,2,152.94,New-Zealand
+Tom Latham wk ,2,0,0,100,New-Zealand
+Abdullah Shafique,4,1,0,44.44,Pakistan
+Fakhar Zaman,126,8,11,155.55,Pakistan
+Babar Azam(c),66,6,2,104.76,Pakistan
+Travis Head,11,1,0,110,Australia
+David Warner,15,1,1,93.75,Australia
+Steven Smith,44,3,0,84.61,Australia
+Marnus Labuschagne,71,7,0,85.54,Australia
+Josh Inglis wk ,3,0,0,50,Australia
+Cameron Green,47,5,0,90.38,Australia
+Marcus Stoinis,35,3,2,109.37,Australia
+Pat Cummins(c),10,1,0,76.92,Australia
+Mitchell Starc,10,0,0,76.92,Australia
+Adam Zampa,29,4,0,152.63,Australia
+Josh Hazlewood,1,0,0,100,Australia
+Jonny Bairstow,0,0,0,0,England
+Dawid Malan,50,4,1,78.12,England
+Joe Root,13,2,0,76.47,England
+Ben Stokes,64,2,3,71.11,England
+Jos Buttler(c) wk ,1,0,0,14.28,England
+Moeen Ali,42,6,0,97.67,England
+Liam Livingstone,2,0,0,40,England
+Chris Woakes,32,4,1,96.96,England
+David Willey,15,3,0,107.14,England
+Adil Rashid,20,1,1,133.33,England
+Rohit Sharma(c),40,6,2,166.66,India
+Shubman Gill,23,4,1,95.83,India
+Virat Kohli,101,10,0,83.47,India
+Shreyas Iyer,77,7,2,88.5,India
+KL Rahul wk ,8,0,0,47.05,India
+Suryakumar Yadav,22,5,0,157.14,India
+Ravindra Jadeja,29,3,1,193.33,India
+Quinton de Kock wk ,5,1,0,50,South-Africa
+Temba Bavuma(c),11,1,0,57.89,South-Africa
+Rassie van der Dussen,13,1,0,40.62,South-Africa
+Aiden Markram,9,2,0,150,South-Africa
+Heinrich Klaasen,1,0,0,9.09,South-Africa
+David Miller,11,2,0,100,South-Africa
+Marco Jansen,14,1,0,46.66,South-Africa
+Keshav Maharaj,7,1,0,63.63,South-Africa
+Kagiso Rabada,6,0,0,23.07,South-Africa
+Lungi Ngidi,0,0,0,0,South-Africa
+Tabraiz Shamsi,4,1,0,100,South-Africa
+Pathum Nissanka,41,8,0,113.88,Sri-Lanka
+Kusal Perera,4,1,0,80,Sri-Lanka
+Kusal Mendis(c) wk ,19,1,1,63.33,Sri-Lanka
+Sadeera Samarawickrama,41,4,0,97.61,Sri-Lanka
+Charith Asalanka,108,6,5,102.85,Sri-Lanka
+Dhananjaya de Silva,34,4,1,94.44,Sri-Lanka
+Maheesh Theekshana,21,3,0,67.74,Sri-Lanka
+Dushmantha Chameera,4,0,0,44.44,Sri-Lanka
+Kasun Rajitha,0,0,0,0,Sri-Lanka
+Dilshan Madushanka,0,0,0,0,Sri-Lanka
+Tanzid Hasan,9,2,0,180,Bangladesh
+Litton Das,23,2,2,104.54,Bangladesh
+Najmul Hossain Shanto,90,12,0,89.1,Bangladesh
+Shakib Al Hasan(c),82,12,2,126.15,Bangladesh
+Mahmudullah,22,3,1,95.65,Bangladesh
+Mushfiqur Rahim wk ,10,1,0,76.92,Bangladesh
+Towhid Hridoy,15,0,2,214.28,Bangladesh
+Mehidy Hasan Miraz,3,0,0,60,Bangladesh
+Tanzim Hasan Sakib,5,1,0,83.33,Bangladesh
+Rahmanullah Gurbaz,21,2,0,84,Afghanistan
+Ibrahim Zadran,129,8,3,90.2,Afghanistan
+Rahmat Shah,30,1,0,68.18,Afghanistan
+Hashmatullah Shahidi(c),26,2,0,60.46,Afghanistan
+Azmatullah Omarzai,22,1,2,122.22,Afghanistan
+Mohammad Nabi,12,0,1,120,Afghanistan
+Rashid Khan,35,2,3,194.44,Afghanistan
+David Warner,18,3,0,62.06,Australia
+Travis Head,0,0,0,0,Australia
+Mitchell Marsh,24,2,2,218.18,Australia
+Marnus Labuschagne,14,2,0,50,Australia
+Josh Inglis wk ,0,0,0,0,Australia
+Glenn Maxwell,201,21,10,157.03,Australia
+Marcus Stoinis,6,1,0,85.71,Australia
+Mitchell Starc,3,0,0,42.85,Australia
+Pat Cummins(c),12,1,0,17.64,Australia
+Jonny Bairstow,15,2,0,88.23,England
+Dawid Malan,87,10,2,117.56,England
+Joe Root,28,1,0,80,England
+Ben Stokes,108,6,6,128.57,England
+Harry Brook,11,2,0,68.75,England
+Jos Buttler(c) wk ,5,0,0,45.45,England
+Moeen Ali,4,0,0,26.66,England
+Chris Woakes,51,5,1,113.33,England
+David Willey,6,0,1,300,England
+Gus Atkinson,2,0,0,200,England
+Adil Rashid,1,0,0,100,England
+Wesley Barresi,37,3,1,59.67,Netherlands
+Max O'Dowd,5,1,0,45.45,Netherlands
+Colin Ackermann,0,0,0,0,Netherlands
+Sybrand Engelbrecht,33,3,1,67.34,Netherlands
+Scott Edwards(c) wk ,38,3,1,90.47,Netherlands
+Bas de Leede,10,2,0,83.33,Netherlands
+Teja Nidamanuru,41,2,3,120.58,Netherlands
+Logan van Beek,2,0,0,100,Netherlands
+Roelof van der Merwe,0,0,0,0,Netherlands
+Aryan Dutt,1,0,0,33.33,Netherlands
+Paul van Meekeren,4,1,0,133.33,Netherlands
+Pathum Nissanka,2,0,0,25,Sri-Lanka
+Kusal Perera,51,9,2,182.14,Sri-Lanka
+Kusal Mendis(c) wk ,6,1,0,85.71,Sri-Lanka
+Sadeera Samarawickrama,1,0,0,50,Sri-Lanka
+Charith Asalanka,8,1,0,100,Sri-Lanka
+Angelo Mathews,16,2,0,59.25,Sri-Lanka
+Dhananjaya de Silva,19,2,1,79.16,Sri-Lanka
+Chamika Karunaratne,6,1,0,35.29,Sri-Lanka
+Maheesh Theekshana,38,3,0,41.75,Sri-Lanka
+Dushmantha Chameera,1,0,0,5,Sri-Lanka
+Dilshan Madushanka,19,2,0,39.58,Sri-Lanka
+Devon Conway,45,9,0,107.14,New-Zealand
+Rachin Ravindra,42,3,3,123.52,New-Zealand
+Kane Williamson(c),14,2,0,93.33,New-Zealand
+Daryl Mitchell,43,5,2,138.7,New-Zealand
+Mark Chapman,7,1,0,116.66,New-Zealand
+Glenn Phillips,17,3,0,170,New-Zealand
+Tom Latham wk ,2,0,0,100,New-Zealand
+Rahmanullah Gurbaz,25,3,1,113.63,Afghanistan
+Ibrahim Zadran,15,3,0,50,Afghanistan
+Rahmat Shah,26,2,0,56.52,Afghanistan
+Hashmatullah Shahidi(c),2,0,0,28.57,Afghanistan
+Azmatullah Omarzai,97,7,3,90.65,Afghanistan
+Ikram Alikhil wk ,12,1,1,85.71,Afghanistan
+Mohammad Nabi,2,0,0,66.66,Afghanistan
+Rashid Khan,14,0,0,46.66,Afghanistan
+Noor Ahmad,26,4,0,81.25,Afghanistan
+Mujeeb Ur Rahman,8,0,1,160,Afghanistan
+Naveen-ul-Haq,2,0,0,50,Afghanistan
+Quinton de Kock wk ,41,2,3,87.23,South-Africa
+Temba Bavuma(c),23,3,0,82.14,South-Africa
+Rassie van der Dussen,76,6,1,80,South-Africa
+Aiden Markram,25,1,1,78.12,South-Africa
+Heinrich Klaasen,10,1,0,76.92,South-Africa
+David Miller,24,1,1,72.72,South-Africa
+Andile Phehlukwayo,39,1,3,105.4,South-Africa
+Tanzid Hasan,36,6,0,105.88,Bangladesh
+Litton Das,36,5,0,80,Bangladesh
+Najmul Hossain Shanto(c),45,6,0,78.94,Bangladesh
+Towhid Hridoy,74,5,2,93.67,Bangladesh
+Mahmudullah,32,1,3,114.28,Bangladesh
+Mushfiqur Rahim wk ,21,0,1,87.5,Bangladesh
+Mehidy Hasan Miraz,29,4,0,145,Bangladesh
+Nasum Ahmed,7,0,0,63.63,Bangladesh
+Mahedi Hasan,2,0,0,66.66,Bangladesh
+Taskin Ahmed,0,0,0,0,Bangladesh
+Travis Head,10,2,0,90.9,Australia
+David Warner,53,6,0,86.88,Australia
+Mitchell Marsh,177,17,9,134.09,Australia
+Steven Smith,63,4,1,98.43,Australia
+Dawid Malan,31,5,0,79.48,England
+Jonny Bairstow,59,7,1,96.72,England
+Joe Root,60,4,0,83.33,England
+Ben Stokes,84,11,2,110.52,England
+Jos Buttler(c) wk ,27,3,1,150,England
+Harry Brook,30,2,2,176.47,England
+Moeen Ali,8,0,1,133.33,England
+Chris Woakes,4,1,0,100,England
+David Willey,15,2,1,300,England
+Gus Atkinson,0,0,0,0,England
+Adil Rashid,0,0,0,0,England
+Abdullah Shafique,0,0,0,0,Pakistan
+Fakhar Zaman,1,0,0,11.11,Pakistan
+Babar Azam(c),38,6,0,84.44,Pakistan
+Mohammad Rizwan wk ,36,2,0,70.58,Pakistan
+Saud Shakeel,29,4,0,78.37,Pakistan
+Agha Salman,51,6,1,113.33,Pakistan
+Iftikhar Ahmed,3,0,0,60,Pakistan
+Shadab Khan,4,1,0,57.14,Pakistan
+Shaheen Shah Afridi,25,3,1,108.69,Pakistan
+Mohammad Wasim,16,2,1,114.28,Pakistan
+Haris Rauf,35,3,3,152.17,Pakistan
+Rohit Sharma(c),61,8,2,112.96,India
+Shubman Gill,51,3,4,159.37,India
+Virat Kohli,51,5,1,91.07,India
+Shreyas Iyer,128,10,5,136.17,India
+KL Rahul wk ,102,11,4,159.37,India
+Suryakumar Yadav,2,0,0,200,India
+Wesley Barresi,4,0,0,80,Netherlands
+Max O'Dowd,30,3,1,71.42,Netherlands
+Colin Ackermann,35,6,0,109.37,Netherlands
+Sybrand Engelbrecht,45,4,0,56.25,Netherlands
+Scott Edwards(c) wk ,17,1,0,56.66,Netherlands
+Bas de Leede,12,1,0,57.14,Netherlands
+Teja Nidamanuru,54,1,6,138.46,Netherlands
+Logan van Beek,16,2,0,106.66,Netherlands
+Roelof van der Merwe,16,1,2,200,Netherlands
+Aryan Dutt,5,0,0,45.45,Netherlands
+Paul van Meekeren,3,0,0,75,Netherlands
+Rohit Sharma(c),47,4,4,162.06,India
+Shubman Gill,80,8,3,121.21,India
+Virat Kohli,117,9,2,103.53,India
+Shreyas Iyer,105,4,8,150,India
+KL Rahul wk ,39,5,2,195,India
+Suryakumar Yadav,1,0,0,50,India
+Devon Conway,13,3,0,86.66,New-Zealand
+Rachin Ravindra,13,3,0,59.09,New-Zealand
+Kane Williamson(c),69,8,1,94.52,New-Zealand
+Daryl Mitchell,134,9,7,112.6,New-Zealand
+Tom Latham wk ,0,0,0,0,New-Zealand
+Glenn Phillips,41,4,2,124.24,New-Zealand
+Mark Chapman,2,0,0,40,New-Zealand
+Mitchell Santner,9,0,0,90,New-Zealand
+Tim Southee,9,1,0,90,New-Zealand
+Trent Boult,2,0,0,100,New-Zealand
+Lockie Ferguson,6,0,1,200,New-Zealand
+Quinton de Kock wk ,3,0,0,21.42,South-Africa
+Temba Bavuma(c),0,0,0,0,South-Africa
+Rassie van der Dussen,6,0,0,19.35,South-Africa
+Aiden Markram,10,2,0,50,South-Africa
+Heinrich Klaasen,47,4,2,97.91,South-Africa
+David Miller,101,8,5,87.06,South-Africa
+Marco Jansen,0,0,0,0,South-Africa
+Gerald Coetzee,19,2,0,48.71,South-Africa
+Keshav Maharaj,4,0,0,50,South-Africa
+Kagiso Rabada,10,0,1,83.33,South-Africa
+Tabraiz Shamsi,1,0,0,20,South-Africa
+Travis Head,62,9,2,129.16,Australia
+David Warner,29,1,4,161.11,Australia
+Mitchell Marsh,0,0,0,0,Australia
+Steven Smith,30,2,0,48.38,Australia
+Marnus Labuschagne,18,2,0,58.06,Australia
+Glenn Maxwell,1,0,0,20,Australia
+Josh Inglis wk ,28,3,0,57.14,Australia
+Mitchell Starc,16,2,0,42.1,Australia
+Pat Cummins(c),14,2,0,48.27,Australia
+Rohit Sharma (c),47,4,3,151.61,India
+Shubman Gill,4,0,0,57.14,India
+Virat Kohli,54,4,0,85.71,India
+Shreyas Iyer,4,1,0,133.33,India
+KL Rahul  wk ,66,1,0,61.68,India
+Ravindra Jadeja,9,0,0,40.9,India
+Suryakumar Yadav,18,1,0,64.28,India
+Mohammed Shami,6,1,0,60,India
+Jasprit Bumrah,1,0,0,33.33,India
+Kuldeep Yadav,10,0,0,55.55,India
+Mohammed Siraj,9,1,0,112.5,India
+David Warner,7,1,0,233.33,Australia
+Travis Head,137,15,4,114.16,Australia
+Mitchell Marsh,15,1,1,100,Australia
+Steven Smith,4,1,0,44.44,Australia
+Marnus Labuschagne,58,4,0,52.72,Australia
+Glenn Maxwell,2,0,0,200,Australia
